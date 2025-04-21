@@ -16,6 +16,7 @@ namespace Stock_Market_Analysis.Controllers
         public IActionResult Index()
         {
             int k = 1;
+            int z = 45;
             int s = 45;
             return View();
         }
